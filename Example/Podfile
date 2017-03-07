@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TuSdk-xh_Example' do
+  pod 'TuSdk-xh', :path => '../'
+
+  target 'TuSdk-xh_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

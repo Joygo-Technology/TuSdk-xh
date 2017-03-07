@@ -1,0 +1,38 @@
+{
+    "filterGroups":[
+        {
+            "file":"lsq_filter_VideoFair_25.gfilter",
+            "name":"lsq_filter_group_VideoFair",
+            "default_filter_id":190,
+            "filters":[
+                {
+                    "id":190,
+                    "name":"lsq_filter_VideoFair",
+                    "color":"#9d1616",
+                    "args":{
+                        "smoothing":0.65,
+                        "mixied":1
+                    }
+                }
+            ]
+        }
+    ],
+    "stickerCategories":[
+        {
+            "id":1,
+            "name":"\u8d34\u7eb8"
+        },
+        {
+            "id":2,
+            "name":"\u5fc3\u60c5"
+        },
+        {
+            "id":3,
+            "name":"\u6c34\u5370"
+        }
+    ],
+    "stickerGroups":[
+        
+    ],
+    "master":"TYuU7ZgLuUMh8sLb+ldmilikuAhNI\/esJ2qWews5X5NAacU2dhUKks1hrVZGiezGG771EAIw01laIgcPV67k\/L8r2IL42xOZWF5W3qVtmiKMVsHBIxtd\/5ngqBw1NKEuQ5qzAdWrIdhS+n9kOjGUzLSBiswKjwmFHyosiWwCvRhWK1AsEEph4o5qkKpAuloqMQce+0hqAOqEifGu\/LW2TEAPwtSm\/BGB1oLsuMex5g84XvbQY8hlKpEDRv3QNhGfZ\/otFPMmZl0RiLB7W5yOOwX3EKg7cyyFPyWdTlZUm2N+R2lFhT2nGaerdbGCCmY9zr65Z8O3JSrB1mp\/rLVJ8gmrl3XkwAZtlCfTyeRevpSy3\/YW1RsvG+URVPkKC0Q\/6ZIHd0cEP3FojnXu1BjEdnXZCEXTD4yPlQjQFCmGbLLB585BV+xQL92pDsUa4+9yt6aa+1DPAzm\/Le8YrJlx4+WD9GFuSoBW7vRu1ZrlQpu\/QGAMZvD5pbsBVQXqACvvCQfAiiIDDpFw40Y5ss+gP18Uzh0CoZo3WP6ETQRizG7GGpgAau7qZ+xQsIDbZgt5jNyTDn+wNFF3TAK2xWYD3OTbl8TL\/oxB\/2cSt1PBjTOUZ7KErxHYRi1jQwNjmm6K\/NWXmXLrNOM21Nvzhtukng==D91D084A01"
+}
